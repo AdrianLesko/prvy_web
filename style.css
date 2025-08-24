@@ -20,3 +20,14 @@ h1{
 nav a {
     color: orange;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+
+h2, h3 {
+    color:darkblue;
+    font-family: Arial, sans-serif;
+}
