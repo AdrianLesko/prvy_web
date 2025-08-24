@@ -6,3 +6,17 @@ h1{
     color: blue;
     text-align: center;
 }
+
+.zvyrazni {
+    color: red ;
+    font-weight: bold; 
+}
+
+#specialny {
+    color: green;
+    font-size: 20px;
+}
+
+nav a {
+    color: orange;
+}
